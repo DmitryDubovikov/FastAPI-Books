@@ -1,6 +1,6 @@
 # FastAPI-Books
 
-An example of simple FastAPI app with Uvicorn (GET and POST data), SQLAlchemy to CRUD operations and Alembic to manage migrations. Deployed in Docker/Docker-Compose.
+An example of simple FastAPI app with Uvicorn (GET and POST data), PostgreSQL as database, SQLAlchemy for CRUD operations and Alembic to manage migrations. Deployed in Docker/Docker-Compose.
 
 To start:
 
